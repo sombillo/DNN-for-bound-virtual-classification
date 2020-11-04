@@ -1,5 +1,7 @@
 # DNN for bound-virtual-classification
-Use the jupyter notebook `experiment` to perform DNN model inferences on separable potential and on the nucleon-nucleon data in <a href=http://nn-online.org> NN-Online</a>. The pretrained models are saved in `generalization` folder.
+This repository contains the DNN model construction, training loop code and inference code. The code for the data generation is not yet included.
 
-If you wish to use this code, please cite our work
+Use the jupyter notebook `experiment` to perform DNN model inferences on separable potential and nucleon-nucleon data in <a href=http://nn-online.org> NN-Online</a>. The pretrained models are saved in `generalization` folder. If you want to skip the generation of validation dataset, you may upload the `.pkl` data in the repository.
+
+If you wish to use this code in your work, please cite our paper:
 <a href=https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.016024>PhysRevD.102.01602</a>.
