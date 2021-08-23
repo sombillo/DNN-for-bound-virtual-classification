@@ -5,4 +5,4 @@ Use the jupyter notebook `experiment.ipynb` to perform DNN model inferences on s
 
 If you wish to use this code in your work, please cite our papers:
 <a href=https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.016024>PhysRevD.102.01602</a> and
-<a href=https://arxiv.org/abs/2106.03453>arXiv:2106.03453</a>.
+<a href=https://link.springer.com/article/10.1007%2Fs00601-021-01642-z>Few-Body Syst 62, 52 (2021)</a>.
